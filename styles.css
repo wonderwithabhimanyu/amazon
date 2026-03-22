@@ -203,3 +203,14 @@ span{
     padding: 5px;
 
 }
+.bootom-footer2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #011123;
+    color: #ffffff;
+    width: 100%;
+    height: 50px;
+    padding: 5px;
+    margin: 15px;
+    
